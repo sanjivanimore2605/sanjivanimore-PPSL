@@ -1,4 +1,4 @@
-main(4)cpp file readme
+
 The program starts with including the input/output stream library `iostream` which allows you to perform input and output operations.
  The line `using namespace std;` allows you to use objects and functions from the standard C++ library without specifying the namespace.
  The `main()` function is the entry point of the program where the execution begins.
